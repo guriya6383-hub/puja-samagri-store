@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+  text-align: center;
+}
+
+#ui {
+  padding: 12px;
+}
+
+#gameCanvas {
+  background: #1e1e1e;
+  display: block;
+  margin: 0 auto 20px auto;
+  border: 3px solid #444;
+}
+
+button {
+  padding: 10px 18px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  background: #28a745;
+  color: white;
+  cursor: pointer;
+}
